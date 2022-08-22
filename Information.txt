@@ -1,0 +1,2 @@
+Open the file via notepad to see the code.
+Here we will call a value inside a object and it will give the output.
